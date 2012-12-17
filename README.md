@@ -18,17 +18,17 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 **四、添加用于访问GitHub的公钥**  
 
-1.**产生公钥**  
+1、**产生公钥**  
 
 本地控制台输入`ssh-keygen -t rsa -C "YourEmailAddress"`，根据提示，找到对应的pub文件，获取公钥。  
 
-2.添加公钥  
+2、添加公钥  
 
 登录Github，进入"Account Settings"界面，选择"SSH Keys"；  
 
 点击"Add SSH key"，随意填写"Title",并将公钥填入"Key"栏，点击"Add key"，再次经过GitHub网站登录密码确认后，完成公钥添加。  
 
-3.验证  
+3、验证  
 
 本地控制台输入`ssh git@github.com`，查看是否可以通过GitHub认证。  
 
