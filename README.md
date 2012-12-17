@@ -23,8 +23,8 @@ Linux版下载地址：[Git](http://git-scm.com/)
 **五、开始使用GitHub**  
 假如现在GitHub上创建了一个名为printer的repository，我们将本地的文件上传至GitHub。  
 1.配置Git用户  
-      $ git config --global user.name "GitHub用户名"  
-      $ git config --global user.email you@example.com  
+`$ git config --global user.name "GitHub用户名"`  
+`$ git config --global user.email you@example.com`  
 2.使用Git  
 `$ mkdir printer`  
 `$ cd printer/`  
