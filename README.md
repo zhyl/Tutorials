@@ -1,7 +1,7 @@
 #GitHub入门指南#
 
 **一、安装Git**  
-Windows版下载地址：[Git](http://windows.github.com/)  
+Windows版下载地址：[Git](http://windows.github.com/)
 Linux版下载地址：[Git](http://git-scm.com/)
 
 **二、注册GitHub用户**  
