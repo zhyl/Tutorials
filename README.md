@@ -43,11 +43,11 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 2. 使用Git  
 
-    $ mkdir printer  
-    $ cd printer/  
-    $ git init  
-    $ touch A.java  
-    $ git add A.java  
-    $ git commit -m 'first commit'  
-    $ git remote add origin git@github.com:GitHub用户名/printer.git  
-    $ git push origin master  
+        $ mkdir printer  
+        $ cd printer/  
+        $ git init  
+        $ touch A.java  
+        $ git add A.java  
+        $ git commit -m 'first commit'  
+        $ git remote add origin git@github.com:GitHub用户名/printer.git  
+        $ git push origin master  
