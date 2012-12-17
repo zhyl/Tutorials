@@ -20,7 +20,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 1. 生成公钥  
 
-本地控制台输入`ssh-keygen -t rsa -C "YourEmailAddress"`，根据提示，找到对应的pub文件，获取公钥。  
+    本地控制台输入`ssh-keygen -t rsa -C "YourEmailAddress"`，根据提示，找到对应的pub文件，获取公钥。  
 
 2. 添加公钥  
 
