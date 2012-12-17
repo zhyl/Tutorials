@@ -12,9 +12,9 @@ Linux版下载地址：[Git](http://git-scm.com/)
 2.填写"Repository name"，点击"Create repository"完成创建。
 
 **四、添加用于访问GitHub的公钥**  
-1.*产生公钥*  
+1.产生公钥  
 本地控制台输入`ssh-keygen -t rsa -C "YourEmailAddress"`，根据提示，找到对应的pub文件，获取公钥。  
-2.*添加公钥*  
+2.添加公钥  
 登录Github，进入"Account Settings"界面，选择"SSH Keys"；  
 点击"Add SSH key"，随意填写"Title",并将公钥填入"Key"栏，点击"Add key"，再次经过GitHub网站登录密码确认后，完成公钥添加。  
 3.验证  
@@ -23,14 +23,14 @@ Linux版下载地址：[Git](http://git-scm.com/)
 **五、开始使用GitHub**  
 假如现在GitHub上创建了一个名为printer的repository，我们将本地的文件上传至GitHub。  
 1.*配置Git用户*  
-    $ git config --global user.name "GitHub用户名"  
-    $ git config --global user.email you@example.com  
+`$ git config --global user.name "GitHub用户名"`  
+`$ git config --global user.email you@example.com`  
 2.*使用Git*  
-    $ mkdir printer  
-    $ cd printer/  
-    $ git init  
-    $ touch A.java  
-    $ git add A.java  
-    $ git commit -m 'first commit'  
-    $ git remote add origin git@github.com:GitHub用户名/printer.git  
-    $ git push origin master  
+`$ mkdir printer`  
+`$ cd printer/`  
+`$ git init`  
+`$ touch A.java`  
+`$ git add A.java`  
+`$ git commit -m 'first commit'`  
+`$ git remote add origin git@github.com:GitHub用户名/printer.git`  
+`$ git push origin master`  
