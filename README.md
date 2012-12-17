@@ -24,13 +24,13 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 2. 添加公钥  
 
-登录Github，进入"Account Settings"界面，选择"SSH Keys"；  
+    登录Github，进入"Account Settings"界面，选择"SSH Keys"；  
 
-点击"Add SSH key"，随意填写"Title",并将公钥填入"Key"栏，点击"Add key"，再次经过GitHub网站登录密码确认后，完成公钥添加。  
+    点击"Add SSH key"，随意填写"Title",并将公钥填入"Key"栏，点击"Add key"，再次经过GitHub网站登录密码确认后，完成公钥添加。  
 
 3. 验证  
 
-本地控制台输入`ssh git@github.com`，查看是否可以通过GitHub认证。  
+    本地控制台输入`ssh git@github.com`，查看是否可以通过GitHub认证。  
 
 **五、开始使用GitHub**  
 
@@ -38,8 +38,8 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 1. 配置Git用户  
 
-    $ git config --global user.name "GitHub用户名"  
-    $ git config --global user.email you@example.com  
+        $ git config --global user.name "GitHub用户名"  
+        $ git config --global user.email you@example.com  
 
 2. 使用Git  
 
