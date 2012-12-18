@@ -54,4 +54,8 @@ Linux°æÏÂÔØµØÖ·£º[Git](http://git-scm.com/)
 
 **Áù¡¢²ÎÓëÆäËûÈËµÄRepository**
 
+1. ÕÒµ½×Ô¼ºÏ£Íû²ÎÓëµÄRepository  
 
+2. µã»÷Ò³ÃæÓÒÉÏ½ÇµÄ"Fork"°´Å¥  
+
+3. µ½×Ô¼ºµÄGitHubÖ÷Ò³ÃæÏÂ£¬¼´¿É¿´µ½¸Õ¸ÕÅÉÉú¹ýÀ´µÄÏîÄ¿£¼´¿ÉÔÚ´Ë»ù´¡ÉÏ½øÐÐ¿ª·¢¡£
