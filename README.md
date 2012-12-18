@@ -54,8 +54,6 @@ Linux°æÏÂÔØµØÖ·£º[Git](http://git-scm.com/)
 
 **Áù¡¢²ÎÓëÆäËûÈËµÄRepository**
 
-1. ÕÒµ½×Ô¼ºÏ£Íû²ÎÓëµÄRepository  
+1. ÕÒµ½×Ô¼ºÏ£Íû²ÎÓëµÄrepository£¬µã»÷Ò³ÃæÓÒÉÏ½ÇµÄ"Fork"°´Å¥£¬´Ërepository¼´ÒÑÅÉÉúµ½×Ô¼ºµÄÕË»§ÃûÏÂ£¬²¢ÇÒ¿ÉÒÔÔÚ´Ë»ù´¡ÉÏ½øÐÐ¿ª·¢¡£
 
-2. µã»÷Ò³ÃæÓÒÉÏ½ÇµÄ"Fork"°´Å¥  
-
-3. µ½×Ô¼ºµÄGitHubÖ÷Ò³ÃæÏÂ£¬¼´¿É¿´µ½¸Õ¸ÕÅÉÉú¹ýÀ´µÄÏîÄ¿£¬²¢ÔÚ´Ë»ù´¡ÉÏ½øÐÐ´úÂë¿ª·¢¡£
+2. Èç¹ûÏ£Íû½«×Ô¼ºµÄÐÞ¸ÄºÏ²¢µ½Ô­×÷ÕßµÄ´úÂë¿â£¬µã»÷"Pull Request"£¬¼´¿ÉÏòÔ­×÷Õß·¢ËÍºÏ²¢ÇëÇó£¬Ô­×÷ÕßÔÚ½Óµ½ÇëÇóºó£×ÔÐÐ¾ö¶¨ÊÇ·ñ½ÓÊÜÇëÇó¡£
