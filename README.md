@@ -32,7 +32,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
     本地控制台输入`ssh git@github.com`，查看是否可以通过GitHub认证。  
 
-**五、开始使用GitHub**  
+**五、使用GitHub创建自己的Repository**  
 
 假如现在GitHub上创建了一个名为printer的repository，我们将本地的文件上传至GitHub。  
 
@@ -51,3 +51,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
         $ git commit -m 'first commit'  
         $ git remote add origin git@github.com:GitHub用户名/printer.git  
         $ git push origin master  
+
+**六、参与其他人的Repository**
+
+
