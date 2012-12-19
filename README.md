@@ -69,3 +69,11 @@ Linux版下载地址：[Git](http://git-scm.com/)
     * 创建原始repository别名，方便跟踪：`git remote add upstream git://github.com/zyl54586/Tutorials.git`
     * 获取原始代码：`git fetch upstream`
     * 合并到自己的repository：`git merge upstream/master`
+
+**七、常见问题（FAQ）**
+
+1. 如何修改repository路径别名？
+    * 直接：`git remote set-url origin git@github.com:username/reponame.git`
+    * 或者：
+        $ git remote rm origin
+        $ git remote add origin git@github.com:username/reponame.git
