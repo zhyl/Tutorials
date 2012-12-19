@@ -68,4 +68,4 @@ Linux版下载地址：[Git](http://git-scm.com/)
 3. 当原作者修改了代码，我们希望将修改内容合并到自己的repository中时，可以进行如下操作：
     * 创建原始repository别名，方便跟踪：`git remote add upstream git://github.com/zyl54586/Tutorials.git`
     * 获取原始代码：`git fetch upstream`
-    * 合并到自己的repository：`git merge upstream/master
+    * 合并到自己的repository：`git merge upstream/master`
