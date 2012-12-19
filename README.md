@@ -56,7 +56,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
     当有其他开发者提起合并请求时，GitHub网页及个人邮件中都会收到消息。
     * 可以直接在网页中点击"Merge pull request"进行合并  
-    * 可以通过获得将请求者repository的url进行代码合并
+    * 可以通过获得将请求者repository的url进行代码合并  
       1) 打开个人邮件，取得url  
       2) 本地进行代码合并：`git pull https://github.com/zhyl/Tutorials master`  
     * 可以通过补丁包的方式进行代码合并  
