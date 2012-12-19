@@ -74,6 +74,6 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
 1. 如何修改repository路径别名？
     * 直接：`git remote set-url origin git@github.com:username/reponame.git`
-    * 或者：
-            $ git remote rm origin  
-            $ git remote add origin git@github.com:username/reponame.git
+    * 或者：  
+                $ git remote rm origin  
+                $ git remote add origin git@github.com:username/reponame.git
