@@ -60,7 +60,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
         1) 打开个人邮件，取得补丁包url  
         2) 本地进行代码合并：`curl -k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`  
         3) 推送至GitHub：`git push origin master`  
-    * 可以
+    * 可以  
 
 **六、参与其他人的Repository**
 
