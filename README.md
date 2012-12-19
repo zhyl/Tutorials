@@ -59,6 +59,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
     * 可以通过获得将请求者repository的url进行代码合并  
       1) 打开个人邮件，取得url  
       2) 本地进行代码合并：`git pull https://github.com/zhyl/Tutorials master`  
+      3) 推送至GitHub：`git push origin master`  
     * 可以通过补丁包的方式进行代码合并  
       1) 打开个人邮件，取得补丁包url  
       2) 本地进行代码合并：`curl -k https://github.com/zhyl/Tutorials/pull/2.patch | git am`  
