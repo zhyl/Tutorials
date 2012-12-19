@@ -55,11 +55,12 @@ Linux版下载地址：[Git](http://git-scm.com/)
 3. 处理其他开发者的代码合并请求
 
     当有其他开发者提起合并请求时，GitHub网页及个人邮件中都会收到消息。
-    * 也可以直接在网页中点击"Merge Pull Request"进行合并；
-    * 也可以采取“Patch and Apply”的方式进行代码合并：  
+    * 可以直接在网页中点击"Merge Pull Request"进行合并；
+    * 可以采取“Patch and Apply”的方式进行代码合并：  
         1) 打开个人邮件，取得补丁包url  
         2) 本地进行代码合并：`curl -k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`  
         3) 推送至GitHub：`git push origin master`  
+    * 可以
 
 **六、参与其他人的Repository**
 
