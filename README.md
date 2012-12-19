@@ -59,9 +59,9 @@ Linux版下载地址：[Git](http://git-scm.com/)
     可以直接在网页中点击"Merge Pull Request"进行合并；
 
     也可以采取“Patch and Apply”的方式进行代码合并：
-    * 打开个人邮件，取得补丁包url
-    * 本地进行代码合并：`curl -k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`
-    * 推送至GitHub：`git push origin master`
+    1) 打开个人邮件，取得补丁包url
+    2) 本地进行代码合并：`curl -k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`
+    3) 推送至GitHub：`git push origin master`
 
 **六、参与其他人的Repository**
 
