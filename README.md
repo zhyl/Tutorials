@@ -57,5 +57,5 @@ Linux版下载地址：[Git](http://git-scm.com/)
 1. 找到自己希望参与的repository，点击页面右上角的"Fork"按钮，此repository即已派生到自己的账户名下，并且可以在此基础上进行开发。
 
 2. 如果希望将自己的修改合并到原作者的代码库，点击"Pull Request"，即可向原作者发送合并请求，原作者将收到请求者的邮件。
-    * test
+* test
 
