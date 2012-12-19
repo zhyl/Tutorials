@@ -56,11 +56,11 @@ Linux版下载地址：[Git](http://git-scm.com/)
 
     当有其他开发者提起合并请求时，GitHub以及个人邮件中都会收到消息。
 
-   * 打开个人邮件，取得补丁包url
+    * 打开个人邮件，取得补丁包url
 
     * 本地进行代码合并：`curl -k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`
 
-  * 推送至GitHub：`git push origin master`
+    * 推送至GitHub：`git push origin master`
 
 **六、参与其他人的Repository**
 
