@@ -41,7 +41,7 @@ Linux版下载地址：[Git](http://git-scm.com/)
         $ git config --global user.name "GitHub用户名"  
         $ git config --global user.email you@example.com  
 
-2. 使用Git  
+2. 使用Git进行代码版本控制  
 
         $ mkdir printer  
         $ cd printer/  
@@ -52,10 +52,14 @@ Linux版下载地址：[Git](http://git-scm.com/)
         $ git remote add origin git@github.com:GitHub用户名/printer.git  
         $ git push origin master  
 
+3. 处理其他开发者的代码合并请求
+    当有其他开发者提起合并请求时，GitHub以及个人邮件中都会收到消息。
+    * 打开个人邮件，取得补丁包url
+    * 本地进行代码合并：`curl-k https://github.com/zyl54586/Tutorials/pull/2.patch | git am`
+    * 推送至GitHub：`git push origin master`
+
 **六、参与其他人的Repository**
 
 1. 找到自己希望参与的repository，点击页面右上角的"Fork"按钮，此repository即已派生到自己的账户名下，并且可以在此基础上进行开发。
 
-2. 如果希望将自己的修改合并到原作者的代码库，点击"Pull Request"，即可向原作者发送合并请求，原作者将收到请求者的邮件。
- * test
-
+2. 如果希望将自己的修改合并到原作者的代码库，点击"Pull Request"，即可向原作者发送合并请求，原作者在收到请求后自行决定如何处理。
